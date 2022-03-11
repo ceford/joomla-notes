@@ -1,2 +1,2 @@
 # joomla-notes
-Some documents on Joomla
+Some helpful documents about Joomla
