@@ -1,8 +1,8 @@
 ## Introduction
 
-Joomla! is one of the most popular, free and open-source content management systems (CMS) available for publishing web content. It is user friendly, extendable, multilingual, accessible, responsive, search engine optimised and so much more. '''Joomla! 4''' is the current version, released in August 2021.
+Joomla! is one of the most popular, free and open-source content management systems (CMS) available for publishing web content. It is user friendly, extendable, multilingual, accessible, responsive, search engine optimised and so much more. ___Joomla! 4___ is the current version, released in August 2021.
 
-There are thousands of free and commercial Joomla! Extensions available from third parties for all sorts of special purposes. However, Joomla! comes with enough '''core''' Extensions to allow you to create a fully functional website out of the box in a few minutes. It is best to familiarise yourself with the core Joomla capabilities before looking for third party Extensions.
+There are thousands of free and commercial Joomla! Extensions available from third parties for all sorts of special purposes. However, Joomla! comes with enough ___core___ Extensions to allow you to create a fully functional website out of the box in a few minutes. It is best to familiarise yourself with the core Joomla capabilities before looking for third party Extensions.
 
 Joomla! must be installed on a web server, either on a hosting service to make your content available to the rest of the world or on your own laptop or desktop computer for private testing purposes.
 
@@ -30,12 +30,12 @@ You can configure what appears on various dashboards but that is best left until
 
 Joomla! code consists of several different types of Extension:
 
-* '''Components''' control what appears in the main part of each page. Examples include the Content Component for articles and the Smart Search Component for search results.
-* '''Modules''' contain code to manage the boxes that appear at the top, left, right or bottom of a page. Examples include a Login Module, a Menu Module and a Footer Module.
-* '''Plugins''' add functionality to the site. Examples include Authentication options, Captcha options and Editor choices.
-* '''Templates''' display page output to your specifications.
-* '''Languages''' allow you to choose one or more languages in which to display and/or manage your content.
-* '''Libraries''' are something for developers only.
+* ___Components___ control what appears in the main part of each page. Examples include the Content Component for articles and the Smart Search Component for search results.
+* ___Modules___ contain code to manage the boxes that appear at the top, left, right or bottom of a page. Examples include a Login Module, a Menu Module and a Footer Module.
+* ___Plugins___ add functionality to the site. Examples include Authentication options, Captcha options and Editor choices.
+* ___Templates___ display page output to your specifications.
+* ___Languages___ allow you to choose one or more languages in which to display and/or manage your content.
+* ___Libraries___ are something for developers only.
 
 Joomla! has all the core Extensions you need for most types of personal and community websites. You only need to look for third party Extensions for more complex requirements such as sales and marketing.
 
