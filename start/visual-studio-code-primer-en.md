@@ -7,7 +7,7 @@ From [https://en.wikipedia.org/wiki/Visual_Studio_Code Wikipedia]:
 
 ## Installation
 
-The [https://code.visualstudio.com/ VS Code] site default page has a drop-down list for each supported platform. The chances are that your platform is pre-selected. So download and install and you are ready to go.
+The [VS Code](https://code.visualstudio.com/) site default page has a drop-down list for each supported platform. The chances are that your platform is pre-selected. So download and install and you are ready to go.
 
 ### Getting Started
 
@@ -116,7 +116,7 @@ Phing is a command line tool, available for all platforms, used to build softwar
 * copy changed files from your extension source folder to the correct places in your website folder.
 * generate a new zip file for new installations.
 
-Download and install [https://www.phing.info/ Phing]. Other build tools are available! You could install Phing in your own bin folder or in a system bin folder. You need to note the path to your Phing code. In this example it is __~/bin/phing-latest.phar__. You can try it out from the command line after changing into the folder containing your extension code:
+Download and install [Phing](https://www.phing.info/). Other build tools are available! You could install Phing in your own bin folder or in a system bin folder. You need to note the path to your Phing code. In this example it is __~/bin/phing-latest.phar__. You can try it out from the command line after changing into the folder containing your extension code:
 
 ```
 cd ~/git/j4xdemos-mod-debugme
@@ -278,4 +278,4 @@ Cake days?
 
 ## References
 
-From Joomla! Documentation: [[Visual Studio Code]] also covers configuration of other tools, for example CodeSniffer and PHPUnit.
+From Joomla! Documentation: [Visual Studio Code](https://docs.joomla.org/Visual_Studio_Code) also covers configuration of other tools, for example CodeSniffer and PHPUnit.
