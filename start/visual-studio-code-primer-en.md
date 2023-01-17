@@ -95,7 +95,7 @@ In Joomla's Global Configuration, set __Debug System__ to __Yes__ and __Error Re
 
 When you open a page containing the buggy module you will see a stack trace telling you where an error was triggered.
 
-[[File:J4.x-vscode-primer-stack-trace-en.png|border|800px]]
+![Example Stack Trace](https://docs.joomla.org/images/3/3f/J4.x-vscode-primer-stack-trace-en.png "Example Stack Trace")
 
 Sometimes the coding error is on the first line of the stack trace. Otherwise, if the error is triggered in library code, for example by passing invalid data to a database function, the coding error may be further down the list of function calls.
 
@@ -103,7 +103,7 @@ Sometimes the coding error is on the first line of the stack trace. Otherwise, i
 
 In VS Code, use the File / Open Folder menu item to locate and open the folder containing your local copy of the __mod_debugme__ extension code. You should see something similar to the following:
 
-[[File:J4.x-vscode-primer-screen.png|border|800px]]
+![VSCode Screen](https://docs.joomla.org/images/3/39/J4.x-vscode-primer-screen.png "VSCode Screen")
 
 You may be able to diagnose the problem just by reading the code. In the case of the __Class "DebugHelper" not found__ error you will see that a __use__ statement has been commented out a few lines previously. Forgetting to insert a __use__ statement is a common error during initial development!
 
@@ -273,8 +273,7 @@ A few not so obvious problems:
 
 When all is fixed this is what you might see:
 
-[[File:J4.x-vscode-primer-debugme-fixed-en.png|border]]
-
+![Frontend module view](https://docs.joomla.org/images/1/1b/J4.x-vscode-primer-debugme-fixed-en.png "Frontend Debug Module")
 Cake days?
 
 ## References
