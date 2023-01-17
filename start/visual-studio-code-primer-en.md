@@ -2,7 +2,7 @@
 
 ## VS Code - A Popular Free IDE
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code_Wikipedia):
+From [Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code):
 <blockquote>Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.</blockquote>
 
 ## Installation
