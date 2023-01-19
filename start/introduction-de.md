@@ -42,3 +42,5 @@ Joomla! hat alle grundlegenden Erweiterungen, die Sie für die meisten Arten von
 Sind Sie bereit zu beginnen?
 
 Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
+
+Just a test
